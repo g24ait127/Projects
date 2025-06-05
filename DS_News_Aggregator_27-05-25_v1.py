@@ -1,12 +1,8 @@
 # DO_NOT_MAKE_ANY_CHANGES_TO_THE_CODE: Critical for code integrity.
 # Python code to retieve news from different APIs.
 # Author - Deepak Kumar Sahoo
-# Last Update on 27-May-25 - Multi-select check boxes for both the prompts (Topic and Country)
-
-# DO_NOT_MAKE_ANY_CHANGES_TO_THE_CODE: Critical for code integrity.
-# Streamlit version of News Aggregator
-# Author - Deepak Kumar Sahoo
-# Last Update on 27-May-25 - Streamlit-based deployment of multi-source news
+# Updated on 27-May-25 - Multi-select check boxes for both the prompts (Topic and Country)
+# Updated on 05-Jun-25 - Streamlit-based deployment of multi-source news
 
 import streamlit as st
 import requests
